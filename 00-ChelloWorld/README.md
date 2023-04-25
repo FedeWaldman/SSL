@@ -1,6 +1,7 @@
 Este es el TP0 de Federico Waldman
 
 Compilador utilizado: GCC 
+
 Versión del compilador: 12.2.0 (Rev10, Built by MSYS2 project)
 Estandar utilizado: std2x
 
